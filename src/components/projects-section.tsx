@@ -13,7 +13,14 @@ const projects = [
     github: "https://github.com/Harshan-Nayak/movie-app-mern-stack/tree/main",
     link: "https://moonflix.vercel.app/",
   },
-  
+    {
+    name: "Theft Camera",
+    description:
+      "Theft Camera is built upon Next.JS and TensorFlow using cocossd model, To capture person detection",
+    image: "/pr2.png",
+    github: "https://github.com/Harshan-Nayak/Tensorflow",
+    link: "https://theftcamera.vercel.app/",
+  },
 ]
 
 const ProjectsSection = () => {
