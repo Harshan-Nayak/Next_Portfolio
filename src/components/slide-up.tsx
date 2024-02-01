@@ -15,7 +15,7 @@ export default function SlideUp({ children, offset = "0px" }: Props) {
       (entries) => {
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
-            entry.target.classList.remove("opacity-0")
+            entry.target.classList.remove("opacity-1")
             entry.target.classList.add("animate-slideUpCubiBezier")
           }
         })
