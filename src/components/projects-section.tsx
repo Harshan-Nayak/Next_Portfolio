@@ -5,6 +5,23 @@ import SlideUp from "./slide-up"
 import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
+   {
+    name: "Theft Camera",
+    description:
+      "Theft Camera is built upon Next.JS and TensorFlow using cocossd model, To capture person detection",
+    image: "/pr2.png",
+    github: "https://github.com/Harshan-Nayak/Tensorflow",
+    link: "https://theftcamera.vercel.app/",
+  },
+  
+     {
+    name: "Community-MarketPlace",
+    description:
+      "This is an Android App built with React-Native Backend Powered by Firebase, An Market Place where users can buy or sell products with other users.",
+    image: "/ss.jpg",
+    github: "https://github.com/Harshan-Nayak/",
+    link: "https://drive.google.com/file/d/1Jck6gVlodbWgxTwy4cpkSAjR8STe3gxD/view?usp=sharing",
+  },
   {
     name: "Moon Flix",
     description:
@@ -13,14 +30,7 @@ const projects = [
     github: "https://github.com/Harshan-Nayak/movie-app-mern-stack/tree/main",
     link: "https://moonflix.vercel.app/",
   },
-    {
-    name: "Theft Camera",
-    description:
-      "Theft Camera is built upon Next.JS and TensorFlow using cocossd model, To capture person detection",
-    image: "/pr2.png",
-    github: "https://github.com/Harshan-Nayak/Tensorflow",
-    link: "https://theftcamera.vercel.app/",
-  },
+   
 ]
 
 const ProjectsSection = () => {
