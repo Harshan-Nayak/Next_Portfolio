@@ -22,6 +22,14 @@ const projects = [
     github: "https://github.com/Harshan-Nayak/",
     link: "https://drive.google.com/file/d/1Jck6gVlodbWgxTwy4cpkSAjR8STe3gxD/view?usp=sharing",
   },
+   {
+    name: "Localaavaaz",
+    description:
+      "Localaavaaz online platform, where users can find details of other users who want to guide others in Travel planning domain🚢✈️",
+    image: "/pp.png",
+    github: "https://github.com/Harshan-Nayak/localaavaaz",
+    link: "https://localaavaaz.vercel.app/",
+  },
   {
     name: "Moon Flix",
     description:
