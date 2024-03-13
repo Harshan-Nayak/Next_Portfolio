@@ -30,7 +30,7 @@ const AboutSection = () => {
             <h1 className="mb-6 text-2xl font-bold text-center md:text-left">
               Get to know me!
               <Link
-                href="https://drive.google.com/file/d/1j-hvwe8izhYlncL97HkLzOvNYqQgY5YI/view?usp=sharing"
+                href="https://drive.google.com/file/d/1m6fmMuRzNyCSR1TWy3jI8BdIH56gnWuf/view"
                 className="px-4 py-1.5 mx-4 text-white bg-black rounded shadow gafont-semibold hover:bg-white hover:text-black "
 
               >
